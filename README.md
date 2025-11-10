@@ -5,25 +5,29 @@ I'm a technology enthusiast transitioning from Web Development into Cybersecurit
 My focus is on understanding how systems and networks operate — and how to secure them against real-world threats. Through hands-on labs and projects, I’m continuously strengthening my practical knowledge in ethical hacking and secure system design.
 
 ## About Me  
-- Currently expanding my skills in Cybersecurity through professional training and hands-on labs.  
-- Completed a Capstone Project as part of my Intellipaat Cybersecurity program.  
-- Interested in Web Application Security (OWASP Top 10, DVWA), and Cryptography.  
+- Currently expanding my skills in Cybersecurity through professional training and hands-on labs.
+- Completed a Capstone Project as part of my Intellipaat Cybersecurity program.
+- Interested in Web Application Security (OWASP Top 10, DVWA), and Cryptography.
 - Practicing Network Scanning and Vulnerability Assessment.
 - Goal: To become a skilled Cybersecurity Engineer.
 
-## Skills & Tools  
-Security Domains: Web App Security, Network Security, Cryptography  
-Tools & Frameworks: Nmap, Burp Suite, Wireshark, OWASP, DVWA, Metasploit, Maltigo  
-Others: Linux
+## Skills & Tools
+- Security Domains: Web App Security, Network Security, Cryptography
+- Tools & Frameworks: Nmap, Burp Suite, Wireshark, OWASP, DVWA, Metasploit, Maltigo, Recon-ng
+- Others: Linux
 
-## Cybersecurity Projects  
+## Cybersecurity Hands-on
 
-### Capstone Project – Intellipaat  
-Topic: Comprehensive Cybersecurity Assessment and Threat Analysis  
-- Performed vulnerability assessment on simulated systems.  
-- Conducted penetration testing using Nmap and Burp Suite.  
-- Applied encryption and hashing concepts from cryptography to secure data.  
-- Documented findings and proposed mitigation strategies.  
+### Assignments – Intellipaat  
+- Networking & CIA triad.
+- Footprinting and reconnaissance.
+- Networking scanning using Netdiscover and Nmap.
+- Malware Analysis.
+- Social Engineering.
+- DOS and DDOS.
+- Basic Cloud Computing.
+- Applied encryption and hashing concepts from cryptography to secure data.
+- Steganography.
 
 ### Web Application Security Labs  
 - DVWA Practice Lab: Explored vulnerabilities like SQL Injection and XSS.
