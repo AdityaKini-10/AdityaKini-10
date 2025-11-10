@@ -41,7 +41,7 @@ My focus is on understanding how systems and networks operate — and how to sec
 - Explored hashing and digital signatures for data integrity.  
 
 ## Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/aditya-kini-915205321/)  
+<a href="https://www.linkedin.com/in/aditya-kini-915205321/" target="_blank">LinkedIn</a>
 [Email](mailto:kiniaditya27.ak@gmail.com)
 
 > Cybersecurity isn’t just about protection — it’s about understanding how systems can be broken and how to build them stronger.
