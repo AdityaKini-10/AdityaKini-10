@@ -27,11 +27,7 @@ My focus is on understanding how systems and networks operate — and how to sec
 - DOS and DDOS.
 - Basic Cloud Computing.
 - Applied encryption and hashing concepts from cryptography to secure data.
-- Steganography.
-
-### Web Application Security Labs  
-- DVWA Practice Lab: Explored vulnerabilities like SQL Injection and XSS.
-- OWASP Juice Shop: Practiced identifying and exploiting OWASP Top 10 vulnerabilities.  
+- Steganography. 
 
 ### Network & Cloud Security  
 - Nmap & Wireshark Analysis: Conducted network mapping, packet capture, and service enumeration.  
